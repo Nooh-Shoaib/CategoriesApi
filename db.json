@@ -90,44 +90,6 @@
 "text": "<strong>The Custom Websites is a leading Search Engine Marketing agency that can help you get tremendous traffic organically</strong>. You can avail of our SEM services at an affordable price. We offer customized Search Engine Marketing Services to help fulfill your business needs and goals"
 }
 ],
-  "selection": [
-{
-"heading": "‘The Custom Websites’ DevOps Tools",
-"text": "Effective tools help the DevOps team deploy and develop at rapid speed and innovate reliably for their customers. ‘The Custom Websites’ use up-to-date tools and technologies that enable our team to build and release robust software using agile practices and automate deployment tasks, work faster than other engineers, and manage complex environments effectively.",
-"cards": [
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/auv7veycmkxhgd9r1pir.png",
-"heading": "Secure Code Control",
-"text": "We use secure code tools including Git, Github, Bitbucket, and Gitlab. We are aware that secure coding is one of the most critical elements in the development process therefore, we develop robust coding procedures and policies. Secure code incorporation provides many benefits to our customers."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/wpltbnztpfyxgodnqv0q.png",
-"heading": "DevOps CI/CD & Configuration",
-"text": "Our team reduces the Dev-Ops gap with the help of continuous integration, continuous delivery, and continuous testing. Using tools like Jenkins, Ansible, Chef, and Puppet."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bgivsz15j17qlb88rckz.png",
-"heading": "Container Platforms",
-"text": "We utilize different container platforms including Kubernetes, Docker, LXC, and Red Hat to build, test, and deploy applications and software on several environments including servers’ computers to the cloud."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eftsasdtkmu6jksla28m.png",
-"heading": "Computing & Storage",
-"text": "We implement some of the most leading cloud computing and storage platforms including Microsoft Azure, AWS, Google Cloud, and IBM cloud to improve the agility of your organization."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/dwrrgqp2t1fkzhpuyskr.png",
-"heading": "Automated Testing",
-"text": "Our DevOps experts integrate Automated Testing tools including Selenium, Gremlin, TestNG, and JUnit to improve the quality without compromising the development process."
-},
-{
-"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/yxrslq5kswnjr7bt5ajf.png",
-"heading": "Monitoring, Alerting, & Incident Response",
-"text": "Many useful observability tools like SignalFx, Prometheus, AppDynamics, and Raygun help us to analyze metrics and data of your organizations’ infrastructure and applications. These tools help us detect problems quickly that are interrupting the normal operation of the system and find useful solutions."
-}
-]
-}
-],
 "enterprise": {
 "heading": "Hire SEM Expert From The Custom Websites, Today",
 "texts": [
